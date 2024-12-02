@@ -14,3 +14,7 @@ A vscode workspace configuration for writing plaintext documents. I suggest usin
 - **dendron** obsidian like functionality (vaults)
     - **markdown wiki links** allows for both wikimedia and wikipedia link styles to work properly
 
+## system config
+
+- install the latest plantUML (and optionally openjdk) and configure it in the extension
+- install ollama for cline/continue
